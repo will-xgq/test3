@@ -55,21 +55,6 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -96,6 +81,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="501" y="220" key="FileChooserDialogImpl" timestamp="1603099277230">
@@ -106,6 +92,14 @@
       <screen x="0" y="0" width="1440" height="929" />
     </state>
     <state x="222" y="110" key="SettingsEditor/0.0.1440.929@0.0.1440.929" timestamp="1603099319654" />
+    <state x="804" y="169" key="VCS.ChangeListViewerDialog" timestamp="1603100266119">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state x="804" y="169" key="VCS.ChangeListViewerDialog/0.0.1440.929@0.0.1440.929" timestamp="1603100266119" />
+    <state x="850" y="311" key="git4idea.ui.GitUnstashDialog" timestamp="1603100299019">
+      <screen x="0" y="0" width="1440" height="929" />
+    </state>
+    <state x="850" y="311" key="git4idea.ui.GitUnstashDialog/0.0.1440.929@0.0.1440.929" timestamp="1603100299019" />
     <state x="108" y="75" key="new project wizard" timestamp="1603098891076">
       <screen x="0" y="0" width="1440" height="929" />
     </state>
